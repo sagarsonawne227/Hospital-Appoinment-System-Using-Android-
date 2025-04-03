@@ -1,7 +1,10 @@
 # Hospital-Appoinment-System-Using-Android-
 
 🏥 Hospital Appointment System (Android)
+
 🚀 Developed by Sagar Sonawane
+
+
 📖 Overview
 The Hospital Appointment System is a modern Android application designed to simplify the appointment booking process for patients and healthcare providers. It ensures a seamless experience by allowing users to book, manage, and track medical appointments effortlessly.
 
